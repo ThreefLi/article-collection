@@ -237,34 +237,3 @@ _2023-02-16 08:16_ _发表于上海_
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/DWQ5ap0dyHOS30cibgdoxNVC0paGqqUP4KlMzY9cNDOE0xqIr6TgWzH9RtHetiaLmm1AbpCibNkAtIibibg3JH7VDcQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
   
-
-### **4.2 未来展望**
-
-    基于精准测试体系的代码知识库和变更分析能力，未来会在代码质量治理、变更免测评估上面做更多的探索：
-
-*   **代码质量治理**：利用主干代码知识库和调用链路分析结果，持续治理3高（圈复杂度高、代码耦合度高、线上调用热度高）方法的代码质量，提升优酷代码健康分
-    
-*   **变更免测评估**：基于变更代码知识库、调用链路分析结果、测试用例推荐结果，持续优化变更风险分析模型，减少低风险变更（变更方法圈复杂度低、线上调用热度低、推荐用例覆盖率高）对测试资源的占用，提升服务端变更免测率
-    
-
-**感谢**
-------
-
-    优酷精准测试体系依赖Sandbox、Sparrow基础能力的支持，对代码分析和流量采集有兴趣的同学可以参考：
-
-*   Sandbox：https://github.com/alibaba/jvm-sandbox
-    
-*   Sparrow：https://gangfan.github.io/assets/papers/sparrow.pdf
-    
-
-（送福利，如[了解详情](http://mp.weixin.qq.com/s?__biz=MjM5ODczMDc1Mw==&mid=2651856054&idx=1&sn=0cffdf8c408d24081f305541e9393f6e&chksm=bd22f1d88a5578ce2ab26a2f51dfd21e6f39e29cf8c2f6ced1110e8519368fe626f6707b2770&scene=21#wechat_redirect)）
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/CMOUUEcN8FeMDhGAXzbk1Z6VdWa6XHZKDD4FR43NyMbKekfcc1CGfPCYscmJThaBFMbjdmUmRhKAhZnicOzaYFg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-或点👇“阅读原文” 获得优惠券加入知识星球
-
-var first\_sceen\_\_time = (+new Date()); if ("" == 1 && document.getElementById('js\_content')) { document.getElementById('js\_content').addEventListener("selectstart",function(e){ e.preventDefault(); }); }
-
-预览时标签不可点
-
-[阅读原文](javascript:;)
